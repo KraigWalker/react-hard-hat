@@ -1,0 +1,10 @@
+{
+  "name": "react-hard-hat",
+  "version": "0.0.0",
+  "description": "A modern document head manager for React",
+  "main": "./dist/index.js",
+  "repository": "https://github.com/KraigWalker/react-hard-hat.git",
+  "author": "Kraig Walker <kraig_walker@me.com>",
+  "license": "MIT",
+  "private": false
+}

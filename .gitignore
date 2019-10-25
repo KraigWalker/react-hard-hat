@@ -1,3 +1,11 @@
+# OS Files
+.DS_STORE
+
+# Text editor misc
+.vscode
+*.sublime-project
+*.sublime-workspace
+
 # Logs
 logs
 *.log
